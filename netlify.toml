@@ -1,0 +1,4 @@
+# Déploiement Netlify : build automatique à chaque modification du dépôt GitHub
+[build]
+  command = "npm run build"
+  publish = "dist"

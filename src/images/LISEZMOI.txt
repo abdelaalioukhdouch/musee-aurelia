@@ -1,0 +1,2 @@
+Placez ici vos images (.jpg, .jpeg, .jpe, .png).
+Leurs noms doivent correspondre à ceux de src/data/museumData.js (ex. hero.jpg, jarre.jpg, plat.jpg).
